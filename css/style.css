@@ -25,6 +25,14 @@ body {
 .location:hover {
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
+.location_home>a {
+	text-decoration: none;
+	color: white;
+}
+
+.location_home {
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
 
 
 /*---------- Responsive Grid ---------------*/
@@ -86,6 +94,17 @@ body {
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
+		border-radius: 8px;
+	}
+	.location_home {
+		text-align: center;
+		color: white;
+		font-size: 1.5em;
+		display: block;
+		background-color: rgba(175,133,255,1);
+		padding: 10px;
+		margin-left: 32%;
+		margin-right: 33%;
 		border-radius: 8px;
 	}
 }
@@ -156,6 +175,17 @@ body {
 		margin-right: 7%;
 		border-radius: 8px;
 	}
+	.location_home {
+		text-align: center;
+		color: white;
+		font-size: 0.8em;
+		display: block;
+		background-color: rgba(175,133,255,1);
+		padding: 10px;
+		margin-left: 32%;
+		margin-right: 33%;
+		border-radius: 8px;
+	}
 }
 
 @media (min-width: 100px) and (max-width: 728px) and (orientation:landscape) {
@@ -224,6 +254,17 @@ body {
 		margin-right: 7%;
 		border-radius: 8px;
 	}
+	.location_home {
+		text-align: center;
+		color: white;
+		font-size: 1.5em;
+		display: block;
+		background-color: rgba(175,133,255,1);
+		padding: 10px;
+		margin-left: 32%;
+		margin-right: 33%;
+		border-radius: 8px;
+	}
 }
 
 @media only screen and (min-width: 728px) and (max-width: 1000px) {
@@ -288,6 +329,17 @@ body {
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
+		border-radius: 8px;
+	}
+	.location_home {
+		text-align: center;
+		color: white;
+		font-size: 1.8em;
+		display: block;
+		background-color: rgba(175,133,255,1);
+		padding: 10px;
+		margin-left: 32%;
+		margin-right: 33%;
 		border-radius: 8px;
 	}
 }

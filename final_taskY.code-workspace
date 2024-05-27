@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../skypro_final_task/img"
+		},
+		{
+			"path": "../skypro_final_task/css"
+		},
+		{
+			"path": "../skypro_final_task/fonts"
+		},
+		{
+			"path": "../skypro_final_task/html"
+		}
+	],
+	"settings": {}
+}
